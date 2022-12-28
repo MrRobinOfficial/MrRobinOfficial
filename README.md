@@ -6,22 +6,6 @@
 
 On this profile, you will find a selection of my projects and some tools that I have created. **Thank you for visiting**, *and I hope you find something interesting or helpful as you browse through my work. If you have any questions or just want to say hello, please don't hesitate to reach out!*
 
-<!-- Social icons section -->
-<p align="center">
-    <a href="https://www.youtube.com/@MrRobinOfficial"><img width="32px" alt="Youtube" title="MrRobinOfficial's YouTube channel" src="https://cdn.simpleicons.org/youtube/4c8eda"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/artist/2Fzh377DpcO1DjntMQFXvz?si=j0bz09YgRpWvJviIB_ZSwg&nd=1"><img width="32px" alt="Spotify" title="Spotify" src="https://cdn.simpleicons.org/spotify/4c8eda"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/mrrobinftw/"><img width="32px" alt="Ko-fi" title="MrRobinOfficial's Instagram profile" src="https://cdn.simpleicons.org/instagram/4c8eda"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://mrrobinofficial.itch.io/"><img width="32px" alt="Itch.io" title="MrRobinOfficial's Itch.io profile" src="https://cdn.simpleicons.org/itchdotio/4c8eda"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://twitter.com/MrRobinOfficial"><img width="32px" alt="Twitter" title="MrRobinOfficial's Twitter profile" src="https://cdn.simpleicons.org/twitter/4c8eda"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.twitch.tv/mrrobinofficial" alt="Twitch" title="MrRobinOfficial's Twitch channel"><img width="32px" src="https://cdn.simpleicons.org/twitch/4c8eda"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
 > *If you are going to learn something, make it a valuable lesson*
 
 <!-- Social badges section -->
@@ -38,6 +22,22 @@ On this profile, you will find a selection of my projects and some tools that I 
     <a href="https://github.com/MrRobinOfficial?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MrRobinOfficial?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+    <a href="https://www.youtube.com/@MrRobinOfficial"><img width="32px" alt="Youtube" title="MrRobinOfficial's YouTube channel" src="https://cdn.simpleicons.org/youtube/4c8eda"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/artist/2Fzh377DpcO1DjntMQFXvz?si=j0bz09YgRpWvJviIB_ZSwg&nd=1"><img width="32px" alt="Spotify" title="Spotify" src="https://cdn.simpleicons.org/spotify/4c8eda"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.instagram.com/mrrobinftw/"><img width="32px" alt="Ko-fi" title="MrRobinOfficial's Instagram profile" src="https://cdn.simpleicons.org/instagram/4c8eda"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://mrrobinofficial.itch.io/"><img width="32px" alt="Itch.io" title="MrRobinOfficial's Itch.io profile" src="https://cdn.simpleicons.org/itchdotio/4c8eda"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://twitter.com/MrRobinOfficial"><img width="32px" alt="Twitter" title="MrRobinOfficial's Twitter profile" src="https://cdn.simpleicons.org/twitter/4c8eda"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.twitch.tv/mrrobinofficial" alt="Twitch" title="MrRobinOfficial's Twitch channel"><img width="32px" src="https://cdn.simpleicons.org/twitch/4c8eda"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 ---
