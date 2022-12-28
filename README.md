@@ -2,7 +2,23 @@
 
 **`Programmer, Music Producer, Content Creator`**
 
-**Welcome to my GitHub profile!** My name is Robin Johannesson, and I am a 21-year-old male from Sweden. I am currently a student at BTH - Blekinge Institute of Technology, where I am studying web development. In my spare time, I love exploring new programming projects, especially in the realm of **video game development**. I am also passionate about making music and have been using FL Studio to create my own tracks since 2017. In addition to all of this, I enjoy sharing my knowledge and experience through tutorial videos on YouTube, where I hope to help others with their projects and provide valuable insights and advice.
+<!-- Social icons section -->
+<p align="center">
+    <a href="https://www.youtube.com/@MrRobinOfficial"><img width="32px" alt="Youtube" title="MrRobinOfficial's YouTube channel" src="https://cdn.simpleicons.org/youtube/4c8eda"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/artist/2Fzh377DpcO1DjntMQFXvz?si=j0bz09YgRpWvJviIB_ZSwg&nd=1"><img width="32px" alt="Spotify" title="Spotify" src="https://cdn.simpleicons.org/spotify/4c8eda"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.instagram.com/mrrobinftw/"><img width="32px" alt="Ko-fi" title="MrRobinOfficial's Instagram profile" src="https://cdn.simpleicons.org/instagram/4c8eda"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://mrrobinofficial.itch.io/"><img width="32px" alt="Itch.io" title="MrRobinOfficial's Itch.io profile" src="https://cdn.simpleicons.org/itchdotio/4c8eda"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://twitter.com/MrRobinOfficial"><img width="32px" alt="Twitter" title="MrRobinOfficial's Twitter profile" src="https://cdn.simpleicons.org/twitter/4c8eda"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.twitch.tv/mrrobinofficial" alt="Twitch" title="MrRobinOfficial's Twitch channel"><img width="32px" src="https://cdn.simpleicons.org/twitch/4c8eda"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+**Welcome to my GitHub profile!** *My name is **Robin Johannesson**, and I am a 21-year-old male from Sweden.* I am currently a student at BTH - Blekinge Institute of Technology, where I am studying web development. In my spare time, I love exploring new programming projects, especially in the realm of **video game development**. I am also passionate about making music and have been using FL Studio to create my own tracks since 2017. In addition to all of this, I enjoy sharing my knowledge and experience through tutorial videos on YouTube, where I hope to help others with their projects and provide valuable insights and advice.
 
 On this profile, you will find a selection of my projects and some tools that I have created. **Thank you for visiting**, *and I hope you find something interesting or helpful as you browse through my work. If you have any questions or just want to say hello, please don't hesitate to reach out!*
 
@@ -175,6 +191,7 @@ On this profile, you will find a selection of my projects and some tools that I 
             </picture>
         </a>
     </p>
+    <a href="https://github.com/MrRobinOfficial?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 #
