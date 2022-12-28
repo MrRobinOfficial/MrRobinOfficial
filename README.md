@@ -127,7 +127,7 @@ On this profile, you will find a selection of my projects and some tools that I 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrrobinofficial&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrrobinofficial&show_icons=true&theme=github_dark)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MrRobinOfficial&theme=gruvbox&border_radius=4.5) -->
 
