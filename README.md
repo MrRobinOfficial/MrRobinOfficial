@@ -26,17 +26,17 @@ On this profile, you will find a selection of my projects and some tools that I 
 
 <!-- Social icons section -->
 <p align="center">
-    <a href="https://www.youtube.com/@MrRobinOfficial"><img width="32px" alt="Youtube" title="MrRobinOfficial's YouTube channel" src="https://cdn.simpleicons.org/youtube/d94c79"/></a>
+    <a href="https://www.youtube.com/@MrRobinOfficial" target="_blank"><img width="32px" alt="Youtube" title="MrRobinOfficial's YouTube channel" src="https://cdn.simpleicons.org/youtube/d94c79" aria-label="Open YouTube MrRobin Official channel"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/artist/2Fzh377DpcO1DjntMQFXvz?si=j0bz09YgRpWvJviIB_ZSwg&nd=1"><img width="32px" alt="Spotify" title="Spotify" src="https://cdn.simpleicons.org/spotify/4c8eda"/></a>
+    <a href="https://open.spotify.com/artist/2Fzh377DpcO1DjntMQFXvz?si=j0bz09YgRpWvJviIB_ZSwg&nd=1" target="_blank"><img width="32px" alt="Spotify" title="Spotify" src="https://cdn.simpleicons.org/spotify/4c8eda" aria-label="Open Spotify MrRobin Official profile"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/mrrobinftw/"><img width="32px" alt="Ko-fi" title="MrRobinOfficial's Instagram profile" src="https://cdn.simpleicons.org/instagram/d94c79"/></a>
+    <a href="https://www.instagram.com/mrrobinftw/" target="_blank"><img width="32px" alt="Ko-fi" title="MrRobinOfficial's Instagram profile" src="https://cdn.simpleicons.org/instagram/d94c79" aria-label="Open Instagram MrRobin Official profile"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://mrrobinofficial.itch.io/"><img width="32px" alt="Itch.io" title="MrRobinOfficial's Itch.io profile" src="https://cdn.simpleicons.org/itchdotio/4c8eda"></a>
+    <a href="https://mrrobinofficial.itch.io/" target="_blank"><img width="32px" alt="Itch.io" title="MrRobinOfficial's Itch.io profile" src="https://cdn.simpleicons.org/itchdotio/4c8eda" aria-label="Open Itch.io MrRobin Official profile"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://twitter.com/MrRobinOfficial"><img width="32px" alt="Twitter" title="MrRobinOfficial's Twitter profile" src="https://cdn.simpleicons.org/twitter/d94c79"/></a>
+    <a href="https://twitter.com/MrRobinOfficial" target="_blank"><img width="32px" alt="Twitter" title="MrRobinOfficial's Twitter profile" src="https://cdn.simpleicons.org/twitter/d94c79" aria-label="Open Twitter MrRobin Official profile"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.twitch.tv/mrrobinofficial" alt="Twitch" title="MrRobinOfficial's Twitch channel"><img width="32px" src="https://cdn.simpleicons.org/twitch/4c8eda"/></a>
+    <a href="https://www.twitch.tv/mrrobinofficial" target="_blank"><img width="32px" src="https://cdn.simpleicons.org/twitch/4c8eda" alt="Twitch" title="MrRobinOfficial's Twitch channel" aria-label="Open Twitch MrRobin Official channel"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
