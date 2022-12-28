@@ -91,22 +91,91 @@ On this profile, you will find a selection of my projects and some tools that I 
 
 #
 
-### ⚔️ Projects/Repos
-
-|  Type | Title | Description |
-| --- | --- | --- |
-| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Debugger](https://github.com/MrRobinOfficial/Unity-Debugger) |
-| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Parser](https://github.com/MrRobinOfficial/Unity-Parser) | *A parsing system for Unity* |
-| **Guidance** | [Guide-UnityDearImGui](https://github.com/MrRobinOfficial/Guide-UnityDearImGui) | *Quick guide for DearImGui with Unity* |
-| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Drifter](https://github.com/MrRobinOfficial/Unity-Drifter) | *Open Source Vehicle Simulation Tool For Unity. This tool allows you to create/simulate vehicle dynamics inside Unity. This project will not achieve realism (because of limited resources), therefore is aiming towards semi realistic vehicle simulation.* |
-| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Inputter](https://github.com/MrRobinOfficial/Unity-Inputter) | *Extension of Unity Logitech G29 SDK & extra stuff for Unity Input System* |
-| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-JSON](https://github.com/MrRobinOfficial/Unity-JSON) | |
-| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Saveable](https://github.com/MrRobinOfficial/Unity-Saveable) | *Modular save system for Unity.* |
-| **Guidance** | [Guide-UnitySteamNetcodeGameObjects](https://github.com/MrRobinOfficial/Guide-UnitySteamNetcodeGameObjects) | *Quick guide for Facepunch/Steamworks Networking with Unity Netcode For GameObjects* |
-| **Game <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Car-ECS](https://github.com/MrRobinOfficial/Unity-Car-ECS) | |
-| **Game <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Poker](https://github.com/MrRobinOfficial/Unity-Poker) | |
-| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unrealengine?theme=dark&size=16"/><img align="justify" alt="unrealengine" title="unrealengine" style="padding-right:10px;" src="https://deviconapi.vercel.app/unrealengine?theme=light&size=16"/></picture>** | [Unreal-Drifter](https://github.com/MrRobinOfficial/Unreal-Drifter) | |
-| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Tools](https://github.com/MrRobinOfficial/Unity-Tools) | *Custom Unity Tools to make your day easier* |
+<details open> 
+    <summary><h2>⚔️ Projects/Repos</h2></summary>
+    <p align="left">
+        <a href="https://github.com/MrRobinOfficial/Unity-Drifter">
+            <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Drifter&theme=city_lights&hide_border=true&show_icons=false&show_description=false&border_radius=8"
+            media="(prefers-color-scheme: dark)"/>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Drifter&show_icons=false&show_description=false&border_radius=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+                <img align="justify" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Drifter&show_icons=false&show_description=false&border_radius=8" aria-label="Click open Unity Drifter repo" alt="Unity Drifter"/>
+            </picture>
+        </a>
+        <a href="https://github.com/MrRobinOfficial/Unreal-Drifter">
+            <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unreal-Drifter&theme=city_lights&hide_border=true&show_icons=false&show_description=false&border_radius=8"
+            media="(prefers-color-scheme: dark)"/>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unreal-Drifter&show_icons=false&show_description=false&border_radius=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+                <img align="justify" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unreal-Drifter&show_icons=false&show_description=false&border_radius=8" aria-label="Click open Unreal Drifter repo" alt="Unreal Drifter"/>
+            </picture>
+        </a>
+        <a href="https://github.com/MrRobinOfficial/Unity-Inputter">
+            <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Inputter&theme=city_lights&hide_border=true&show_icons=false&show_description=false&border_radius=8"
+            media="(prefers-color-scheme: dark)"/>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Inputter&show_icons=false&show_description=false&border_radius=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+                <img align="justify" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Inputter&show_icons=false&show_description=false&border_radius=8" aria-label="Click open Unity Inputter repo" alt="Unity Inputter"/>
+            </picture>
+        </a>
+        <a href="https://github.com/MrRobinOfficial/Unity-Parser">
+            <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Parser&theme=city_lights&hide_border=true&show_icons=false&show_description=false&border_radius=8"
+            media="(prefers-color-scheme: dark)"/>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Parser&show_icons=false&show_description=false&border_radius=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+                <img align="justify" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Parser&show_icons=false&show_description=false&border_radius=8" aria-label="Click open Unity Parser repo" alt="Unity Parser"/>
+            </picture>
+        </a>
+                <a href="https://github.com/MrRobinOfficial/Unity-Debugger">
+            <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Debugger&theme=city_lights&hide_border=true&show_icons=false&show_description=false&border_radius=8"
+            media="(prefers-color-scheme: dark)"/>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Debugger&show_icons=false&show_description=false&border_radius=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+                <img align="justify" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Debugger&show_icons=false&show_description=false&border_radius=8" aria-label="Click open Unity Debugger repo" alt="Unity Debugger"/>
+            </picture>
+        </a>
+        <a href="https://github.com/MrRobinOfficial/Unity-JSON">
+            <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-JSON&theme=city_lights&hide_border=true&show_icons=false&show_description=false&border_radius=8"
+            media="(prefers-color-scheme: dark)"/>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-JSON&show_icons=false&show_description=false&border_radius=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+                <img align="justify" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-JSON&show_icons=false&show_description=false&border_radius=8" aria-label="Click open Unity JSON repo" alt="Unity JSON"/>
+            </picture>
+        </a>
+        <a href="https://github.com/MrRobinOfficial/Unity-Saveable">
+            <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Saveable&theme=city_lights&hide_border=true&show_icons=false&show_description=false&border_radius=8"
+            media="(prefers-color-scheme: dark)"/>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Saveable&show_icons=false&show_description=false&border_radius=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+                <img align="justify" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Saveable&show_icons=false&show_description=false&border_radius=8" aria-label="Click open Unity Saveable repo" alt="Unity Saveable"/>
+            </picture>
+        </a>
+        <a href="https://github.com/MrRobinOfficial/Unity-Tools">
+            <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Tools&theme=city_lights&hide_border=true&show_icons=false&show_description=false&border_radius=8"
+            media="(prefers-color-scheme: dark)"/>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Tools&show_icons=false&show_description=false&border_radius=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+                <img align="justify" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Tools&show_icons=false&show_description=false&border_radius=8" aria-label="Click open Unity Tools repo" alt="Unity Tools"/>
+            </picture>
+        </a>
+        <a href="https://github.com/MrRobinOfficial/Unity-Car-ECS">
+            <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Car-ECS&theme=city_lights&hide_border=true&show_icons=false&show_description=false&border_radius=8"
+            media="(prefers-color-scheme: dark)"/>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Car-ECS&show_icons=false&show_description=false&border_radius=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+                <img align="justify" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Car-ECS&show_icons=false&show_description=false&border_radius=8" aria-label="Click open Unity Car ECS repo" alt="Unity Car ECS"/>
+            </picture>
+        </a>
+        <a href="https://github.com/MrRobinOfficial/Unity-Poker">
+            <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Poker&theme=city_lights&hide_border=true&show_icons=false&show_description=false&border_radius=8"
+            media="(prefers-color-scheme: dark)"/>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Poker&show_icons=false&show_description=false&border_radius=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+                <img align="justify" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mrrobinofficial&repo=Unity-Poker&show_icons=false&show_description=false&border_radius=8" aria-label="Click open Unity Poker repo" alt="Unity Poker"/>
+            </picture>
+        </a>
+    </p>
+</details>
 
 #
 
@@ -127,7 +196,12 @@ On this profile, you will find a selection of my projects and some tools that I 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrrobinofficial&show_icons=true&theme=github_dark)
+<picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=mrrobinofficial&show_icons=true&theme=github_dark"
+  media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=mrrobinofficial&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mrrobinofficial&show_icons=true" alt="MrRobinOfficial's GitHub stats"/>
+</picture>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MrRobinOfficial&theme=gruvbox&border_radius=4.5) -->
 
