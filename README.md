@@ -2,9 +2,11 @@
 
 **`Programmer, Music Producer, Content Creator`**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel orci sed neque faucibus dictum. Suspendisse bibendum augue in magna pulvinar, a ultricies eros vulputate. Maecenas justo mi, pharetra a lectus a, malesuada fringilla ipsum. Vivamus gravida, dui quis laoreet fermentum, dolor libero ullamcorper tellus, quis cursus velit neque nec elit. Nam id iaculis dolor. Sed posuere lorem massa, nec gravida enim congue ut. Sed in iaculis nulla. Etiam a aliquet arcu. Ut ornare ante ex, non condimentum enim consectetur et. Nam varius tempor suscipit. Vivamus ut placerat tortor, sed pulvinar purus. Morbi fringilla ac purus ac vestibulum.
+**Welcome to my GitHub profile!** My name is Robin Johannesson, and I am a 21-year-old male from Sweden. I am currently a student at BTH - Blekinge Institute of Technology, where I am studying web development. In my spare time, I love exploring new programming projects, especially in the realm of **video game development**. I am also passionate about making music and have been using FL Studio to create my own tracks since 2017. In addition to all of this, I enjoy sharing my knowledge and experience through tutorial videos on YouTube, where I hope to help others with their projects and provide valuable insights and advice.
 
-Donec euismod felis eget diam commodo, nec ultricies quam fermentum. Integer semper, elit sed fermentum pulvinar, odio orci hendrerit sapien, a ornare augue augue mollis nisl. Pellentesque posuere, neque eu rutrum pellentesque, nulla mi lobortis felis, eget gravida leo enim in massa. Aenean a molestie nunc. Phasellus viverra mauris elit, sed euismod purus fermentum vel. Praesent at ornare augue, at tempus tortor. Fusce ultricies magna non augue tempus, quis scelerisque urna porttitor. Proin interdum lacus sit amet nibh pretium faucibus. Donec laoreet, sem ut vestibulum interdum, lectus ante fermentum turpis, ut gravida lectus diam euismod nulla. Duis at purus eu urna rutrum scelerisque in at elit. Vivamus sagittis condimentum ligula. Donec fringilla, augue non suscipit vestibulum, velit turpis porttitor leo, vitae maximus tellus risus non urna. Integer vitae tellus at ipsum rhoncus consequat. Suspendisse volutpat pulvinar mauris a lobortis. Donec rhoncus fringilla elit eu accumsan. Mauris pellentesque auctor elit quis dapibus.
+On this profile, you will find a selection of my projects and some tools that I have created. **Thank you for visiting**, *and I hope you find something interesting or helpful as you browse through my work. If you have any questions or just want to say hello, please don't hesitate to reach out!*
+
+> *If you are going to learn something, make it a valuable lesson*
 
 <!-- Social badges section -->
 <p align="center">
@@ -24,21 +26,87 @@ Donec euismod felis eget diam commodo, nec ultricies quam fermentum. Integer sem
 
 ---
 
-### 🧰 Languages and Tools
+### ⚒️ Languages and Tools
 
-<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<!-- Link to API: https://lunaticfox.vercel.app/deviconApi -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unrealengine?theme=dark&size=48"/>
+    <img align="left" alt="unrealengine" title="unrealengine" style="padding-right:10px;" src="https://deviconapi.vercel.app/unrealengine?theme=light&size=48"/>
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=48"/>
+    <img align="left" alt="unity" title="unity" style="padding-right:10px;" src="https://deviconapi.vercel.app/unity?theme=light&size=48"/>
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/cplusplus?theme=dark&size=48"/>
+    <img align="left" alt="cplusplus" title="cplusplus" style="padding-right:10px;" src="https://deviconapi.vercel.app/cplusplus?theme=light&size=48"/>
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/csharp?theme=dark&size=48"/>
+    <img align="left" alt="csharp" title="csharp" style="padding-right:10px;" src="https://deviconapi.vercel.app/csharp?theme=light&size=48"/>
+</picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/python?theme=dark&size=48"/>
+    <img align="left" alt="python" title="python" style="padding-right:10px;" src="https://deviconapi.vercel.app/python?theme=light&size=48"/></picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/git?theme=dark&size=48"/>
+    <img align="left" alt="git" title="git" style="padding-right:10px;" src="https://deviconapi.vercel.app/git?theme=light&size=48"/>
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/linux?theme=dark&size=48"/>
+    <img align="left" alt="linux" title="linux" style="padding-right:10px;" src="https://deviconapi.vercel.app/linux?theme=light&size=48"/>
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/php?theme=dark&size=48"/>
+    <img align="left" alt="php" title="php" style="padding-right:10px;" src="https://deviconapi.vercel.app/php?theme=light&size=48"/>
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/html5?theme=dark&size=48"/>
+    <img align="left" alt="html5" title="html5" style="padding-right:10px;" src="https://deviconapi.vercel.app/html5?theme=light&size=48"/>
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/css3?theme=dark&size=48"/>
+    <img align="left" alt="css3" title="css3" style="padding-right:10px;" src="https://deviconapi.vercel.app/css3?theme=light&size=48"/>
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/javascript?theme=dark&size=48"/>
+    <img align="left" alt="javascript" title="javascript" style="padding-right:10px;" src="https://deviconapi.vercel.app/javascript?theme=light&size=48"/>
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/github?theme=dark&size=48"/>
+    <img align="left" alt="github" title="github" style="padding-right:10px;" src="https://deviconapi.vercel.app/github?theme=light&size=48"/>
+</picture>
+
 <br />
+
+#
+
+### ⚔️ Projects/Repos
+
+|  Type | Title | Description |
+| --- | --- | --- |
+| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Debugger](https://github.com/MrRobinOfficial/Unity-Debugger) |
+| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Parser](https://github.com/MrRobinOfficial/Unity-Parser) | *A parsing system for Unity* |
+| **Guidance** | [Guide-UnityDearImGui](https://github.com/MrRobinOfficial/Guide-UnityDearImGui) | *Quick guide for DearImGui with Unity* |
+| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Drifter](https://github.com/MrRobinOfficial/Unity-Drifter) | *Open Source Vehicle Simulation Tool For Unity. This tool allows you to create/simulate vehicle dynamics inside Unity. This project will not achieve realism (because of limited resources), therefore is aiming towards semi realistic vehicle simulation.* |
+| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Inputter](https://github.com/MrRobinOfficial/Unity-Inputter) | *Extension of Unity Logitech G29 SDK & extra stuff for Unity Input System* |
+| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-JSON](https://github.com/MrRobinOfficial/Unity-JSON) | |
+| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Saveable](https://github.com/MrRobinOfficial/Unity-Saveable) | *Modular save system for Unity.* |
+| **Guidance** | [Guide-UnitySteamNetcodeGameObjects](https://github.com/MrRobinOfficial/Guide-UnitySteamNetcodeGameObjects) | *Quick guide for Facepunch/Steamworks Networking with Unity Netcode For GameObjects* |
+| **Game <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Car-ECS](https://github.com/MrRobinOfficial/Unity-Car-ECS) | |
+| **Game <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Poker](https://github.com/MrRobinOfficial/Unity-Poker) | |
+| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unrealengine?theme=dark&size=16"/><img align="justify" alt="unrealengine" title="unrealengine" style="padding-right:10px;" src="https://deviconapi.vercel.app/unrealengine?theme=light&size=16"/></picture>** | [Unreal-Drifter](https://github.com/MrRobinOfficial/Unreal-Drifter) | |
+| **Tool <picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=16"/><img align="justify" alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=16"/></picture>** | [Unity-Tools](https://github.com/MrRobinOfficial/Unity-Tools) | *Custom Unity Tools to make your day easier* |
 
 #
 
