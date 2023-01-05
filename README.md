@@ -45,65 +45,67 @@ On this profile, you will find a selection of my projects and some tools that I 
 ### ⚒️ Languages and Tools
 
 <!-- Link to API: https://lunaticfox.vercel.app/deviconApi -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unrealengine?theme=dark&size=48"/>
-    <img align="left" alt="unrealengine" title="unrealengine" style="padding-right:10px;" src="https://deviconapi.vercel.app/unrealengine?theme=light&size=48"/>
-</picture>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=48"/>
-    <img align="left" alt="unity" title="unity" style="padding-right:10px;" src="https://deviconapi.vercel.app/unity?theme=light&size=48"/>
-</picture>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/cplusplus?theme=dark&size=48"/>
-    <img align="left" alt="cplusplus" title="cplusplus" style="padding-right:10px;" src="https://deviconapi.vercel.app/cplusplus?theme=light&size=48"/>
-</picture>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/csharp?theme=dark&size=48"/>
-    <img align="left" alt="csharp" title="csharp" style="padding-right:10px;" src="https://deviconapi.vercel.app/csharp?theme=light&size=48"/>
-</picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/python?theme=dark&size=48"/>
-    <img align="left" alt="python" title="python" style="padding-right:10px;" src="https://deviconapi.vercel.app/python?theme=light&size=48"/></picture>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/git?theme=dark&size=48"/>
-    <img align="left" alt="git" title="git" style="padding-right:10px;" src="https://deviconapi.vercel.app/git?theme=light&size=48"/>
-</picture>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/linux?theme=dark&size=48"/>
-    <img align="left" alt="linux" title="linux" style="padding-right:10px;" src="https://deviconapi.vercel.app/linux?theme=light&size=48"/>
-</picture>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/php?theme=dark&size=48"/>
-    <img align="left" alt="php" title="php" style="padding-right:10px;" src="https://deviconapi.vercel.app/php?theme=light&size=48"/>
-</picture>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/html5?theme=dark&size=48"/>
-    <img align="left" alt="html5" title="html5" style="padding-right:10px;" src="https://deviconapi.vercel.app/html5?theme=light&size=48"/>
-</picture>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/css3?theme=dark&size=48"/>
-    <img align="left" alt="css3" title="css3" style="padding-right:10px;" src="https://deviconapi.vercel.app/css3?theme=light&size=48"/>
-</picture>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/javascript?theme=dark&size=48"/>
-    <img align="left" alt="javascript" title="javascript" style="padding-right:10px;" src="https://deviconapi.vercel.app/javascript?theme=light&size=48"/>
-</picture>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/github?theme=dark&size=48"/>
-    <img align="left" alt="github" title="github" style="padding-right:10px;" src="https://deviconapi.vercel.app/github?theme=light&size=48"/>
-</picture>
-
-<br />
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unrealengine?theme=dark&size=48"/>
+        <img alt="unrealengine" title="unrealengine" src="https://deviconapi.vercel.app/unrealengine?theme=light&size=48"/>
+    </picture>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/unity?theme=dark&size=48"/>
+        <img alt="unity" title="unity" src="https://deviconapi.vercel.app/unity?theme=light&size=48"/>
+    </picture>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/cplusplus?theme=dark&size=48"/>
+        <img alt="cplusplus" title="cplusplus" style="padding-right:10px;" src="https://deviconapi.vercel.app/cplusplus?theme=light&size=48"/>
+    </picture>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/csharp?theme=dark&size=48"/>
+        <img alt="csharp" title="csharp" style="padding-right:10px;" src="https://deviconapi.vercel.app/csharp?theme=light&size=48"/>
+    </picture>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/python?theme=dark&size=48"/>
+        <img alt="python" title="python" style="padding-right:10px;" src="https://deviconapi.vercel.app/python?theme=light&size=48"/>
+    </picture>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/git?theme=dark&size=48"/>
+        <img alt="git" title="git" style="padding-right:10px;" src="https://deviconapi.vercel.app/git?theme=light&size=48"/>
+    </picture>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/linux?theme=dark&size=48"/>
+        <img alt="linux" title="linux" style="padding-right:10px;" src="https://deviconapi.vercel.app/linux?theme=light&size=48"/>
+    </picture>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/php?theme=dark&size=48"/>
+        <img alt="php" title="php" style="padding-right:10px;" src="https://deviconapi.vercel.app/php?theme=light&size=48"/>
+    </picture>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/html5?theme=dark&size=48"/>
+        <img alt="html5" title="html5" style="padding-right:10px;" src="https://deviconapi.vercel.app/html5?theme=light&size=48"/>
+    </picture>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/css3?theme=dark&size=48"/>
+        <img alt="css3" title="css3" style="padding-right:10px;" src="https://deviconapi.vercel.app/css3?theme=light&size=48"/>
+    </picture>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/javascript?theme=dark&size=48"/>
+        <img alt="javascript" title="javascript" style="padding-right:10px;" src="https://deviconapi.vercel.app/javascript?theme=light&size=48"/>
+    </picture>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/github?theme=dark&size=48"/>
+        <img alt="github" title="github" style="padding-right:10px;" src="https://deviconapi.vercel.app/github?theme=light&size=48"/>
+    </picture>
+</p>
 
 #
 
