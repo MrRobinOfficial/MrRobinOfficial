@@ -1,6 +1,6 @@
 # 🎮 MrRobin
 
-**`Programmer, Music Producer, Content Creator`**
+**`Programmer, music producer, content creator`**
 
 **Welcome to my GitHub profile!** *My name is **Robin Johannesson**, and I am a 22-year-old male from Sweden.* I am currently a student at BTH - Blekinge Institute of Technology, where I am studying web development. In my spare time, I love exploring new programming projects, especially in the realm of **video game development**. I am also passionate about making music and have been using FL Studio to create my own tracks since 2017. In addition to all of this, I enjoy sharing my knowledge and experience through tutorial videos on YouTube, where I hope to help others with their projects and provide valuable insights and advice.
 
@@ -222,6 +222,8 @@ On this profile, you will find a selection of my projects and some tools that I 
 #
 
 ### 📊 Stats
+
+[*Link to my main PC build specs*](https://se.pcpartpicker.com/user/MrRobinOfficial/saved/Tn9mLk)
 
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=mrrobinofficial&show_icons=true&theme=github_dark"
