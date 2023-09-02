@@ -105,6 +105,35 @@ On this profile, you will find a selection of my projects and some tools that I 
         <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/github?theme=dark&size=48"/>
         <img alt="github" title="github" style="padding-right:10px;" src="https://deviconapi.vercel.app/github?theme=light&size=48"/>
     </picture>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/bash?theme=dark&size=48"/>
+        <img alt="bash" title="bash" style="padding-right:10px;" src="https://deviconapi.vercel.app/bash?theme=light&size=48"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/symfony?theme=dark&size=48"/>
+        <img alt="symfony" title="symfony" style="padding-right:10px;" src="https://deviconapi.vercel.app/symfony?theme=light&size=48"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/latex?theme=dark&size=48"/>
+        <img alt="latex" title="latex" style="padding-right:10px;" src="https://deviconapi.vercel.app/latex?theme=light&size=48"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/docker?theme=dark&size=48"/>
+        <img alt="docker" title="docker" style="padding-right:10px;" src="https://deviconapi.vercel.app/docker?theme=light&size=48"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/blender?theme=dark&size=48"/>
+        <img alt="blender" title="blender" style="padding-right:10px;" src="https://deviconapi.vercel.app/blender?theme=light&size=48"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/mysql?theme=dark&size=48"/>
+        <img alt="mysql" title="mysql" style="padding-right:10px;" src="https://deviconapi.vercel.app/mysql?theme=light&size=48"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/sqlite?theme=dark&size=48"/>
+        <img alt="sqlite" title="sqlite" style="padding-right:10px;" src="https://deviconapi.vercel.app/sqlite?theme=light&size=48"/>
+    </picture>
 </p>
 
 #
