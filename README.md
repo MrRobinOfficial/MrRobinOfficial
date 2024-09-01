@@ -60,11 +60,13 @@ _If you are going to learn something, make it a valuable lesson._
 
 ### Full Stack Projects
 
-*Working on some full-stack projects.*
+* [![](https://img.shields.io/badge/-🤝%20vteam6-000)](https://github.com/Mooney91/vteam6-HT23) - A collaborative full-stack project developed during a course at BTH (Blekinge Institute of Technology).
+
+* [![](https://img.shields.io/badge/-📊%20Pulse-000)](https://github.com/robjoh01/pulse-ht23) - A solo full-stack project where I built Pulse, a Node.js and Express-based reporting system to help teams manage projects and track progress effortlessly.
 
 ### Game Development Projects
 
-*Working on some game development projects.*
+* [![](https://img.shields.io/badge/-🎮%20Seek%20Edge%20%7C%20A%20Call%20Of%20Duty%20Clone%20Game%20%7C%20Made%20With%20Unity-000)](https://mrrobinofficial.itch.io/seek-edge)
 
 ### Guides & Tutorials
 
