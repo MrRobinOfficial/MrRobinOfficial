@@ -36,9 +36,9 @@ I value **clean architecture**, **explicit APIs**, and **maintainable systems** 
 
 This profile is a mix of personal projects, experiments, and open-source work.
 
-For structured, work-related, academic samples, and architecture thinking, best practices, production-oriented code.
+For structured, work-related, academic samples, and architecture thinking, best practices, production-oriented cod, visit my primary profile:
 
-**[Checkout my secondary profile →](https://github.com/robjoh01)**
+**[robjoh01 →](https://github.com/robjoh01)**
 
 _Feel free to reach out if you'd like to connect, collaborate, or discuss opportunities._
 
