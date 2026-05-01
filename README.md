@@ -1,125 +1,215 @@
-![Title Banner](TitleBanner.gif)
-
 <div align="center">
 
+![Title Banner](TitleBanner.gif)
+
+<br/>
+
+<sub>SOFTWARE ENGINEER · SYSTEMS · GAME ENGINE · FULL-STACK</sub>
+<br/><br/>
 _If you are going to learn something, make it a valuable lesson._
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:mrrobin123mail@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://mrrobinofficial.github.io)&nbsp;
+[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/MrRobinOfficial)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-000?style=flat-square&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@MrRobinOfficial)&nbsp;
+[![Twitch](https://img.shields.io/badge/Twitch-000?style=flat-square&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/mrrobinofficial)&nbsp;
+[![Itch.io](https://img.shields.io/badge/Itch.io-000?style=flat-square&logo=itch.io&logoColor=FA5C5C)](https://mrrobinofficial.itch.io/)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/mrrobinftw/)&nbsp;
+[![Spotify](https://img.shields.io/badge/Spotify-000?style=flat-square&logo=spotify&logoColor=1DB954)](https://open.spotify.com/artist/2Fzh377DpcO1DjntMQFXvz?si=j0bz09YgRpWvJviIB_ZSwg)
 
 </div>
 
----
+<br/>
 
-## Languages
+## WHO I AM
 
-* ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=E57324)
-* ![C#](https://img.shields.io/badge/-C%23-000?&logo=.net&logoColor=239120)
-* ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-* ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)
-* ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-* ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-* ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
-* ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)
-* ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash&logoColor=4EAA25)
+<br/>
 
-## Technologies
+I'm **Robin Johannesson** a software engineer from Sweden, with a Bachelor's in Software Engineering from **Blekinge Institute of Technology**.
 
-### Development Tools & Environments
+Most of my work sits close to the metal with custom engines and developer tooling. I'm equally at home across the full web stack, scalable backends, REST APIs, and reactive frontends. And I've shipped across both domains in collaborative, agile environments.
 
-* ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
-* ![Linux & WSL](https://img.shields.io/badge/-Linux%20&%20WSL-000?&logo=Linux&logoColor=FCC624)
-* ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
-* ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=GitHub-Actions&logoColor=2088FF)
+I approach every project with curiosity and a critical eye. Always questioning assumptions, always looking for the cleaner solution. Outside of code, I'm into music, gaming, and technology broadly, interests that tend to feed back into the work.
 
-### Frontend Development
+I value **clean architecture**, **explicit APIs**, and **maintainable systems** over clever magic.
 
-* ![React & React Native](https://img.shields.io/badge/-React%20&%20Native-000?&logo=React&logoColor=61DAFB)
-* ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=61DAFB)
-* ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)
-* ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=Tailwind-CSS&logoColor=06B6D4)
-* ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS&logoColor=CC6699)
+This profile is a mix of personal projects, experiments, and open-source work.
 
-### Game Development
+For structured, work-related, academic samples, and architecture thinking, best practices, production-oriented code.
 
-* ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity&logoColor=FFFFFF)
-* ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000?&logo=Unreal-Engine&logoColor=FFFFFF)
-* ![Godot](https://img.shields.io/badge/-Godot-000?&logo=Godot-Engine&logoColor=478CBF)
-* ![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender&logoColor=F5792A)
+**[Checkout my secondary profile →](https://github.com/robjoh01)**
 
-### Backend Development
+_Feel free to reach out if you'd like to connect, collaborate, or discuss opportunities._
 
-* ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)
-* ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express&logoColor=FFFFFF)
+## PROJECTS
 
-### Databases
+<br/>
 
-* ![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB&logoColor=003545)
-* ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)
-* ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
-* ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite&logoColor=003B57)
+<details open>
+<summary><b>WEB &amp; FULL-STACK</b></summary>
+<br/>
 
-## Projects
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [DevInsights](https://github.com/robjoh01/DevInsights) | `ASP.NET Core` `MongoDB` `Spectre.Console` | Developer analytics platform — GitHub profiles enriched with geographic and real-time weather data via a Minimal API |
+| [UmbracoSample](https://github.com/robjoh01/UmbracoSample) | `Umbraco CMS` `.NET` `Razor` `GitHub Actions` | CMS work sample with dynamic Razor templates, reusable layouts, and structured document types |
+| [vteam6](https://github.com/Mooney91/vteam6-HT23) | `Node.js` `Express` | Collaborative full-stack project @ BTH |
+| [Pulse](https://github.com/robjoh01/pulse-ht23) | `Node.js` `Express` | Reporting system for tracking team project progress |
 
-### Full Stack Projects
+</details>
 
-* [![](https://img.shields.io/badge/-🤝%20vteam6-000)](https://github.com/Mooney91/vteam6-HT23) - A collaborative full-stack project developed during a course at BTH (Blekinge Institute of Technology).
+<br/>
 
-* [![](https://img.shields.io/badge/-📊%20Pulse-000)](https://github.com/robjoh01/pulse-ht23) - A solo full-stack project where I built Pulse, a Node.js and Express-based reporting system to help teams manage projects and track progress effortlessly.
+<details>
+<summary><b>TOOLS &amp; LIBRARIES</b></summary>
+<br/>
 
-### Game Development Projects
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [EasingFunctions](https://github.com/MrRobinOfficial/EasingFunctions) | `C#` `C++` `Python` | Easing function collection across three languages |
+| [Godot Saveable](https://github.com/MrRobinOfficial/Godot-Saveable) | `Godot` `C#` | Save system plugin for Godot |
+| [Unreal Vehicle System](https://github.com/MrRobinOfficial/Unreal-NebulousVehicle) | `Unreal Engine` `C++` | Vehicle system plugin for Unreal Engine |
+| [Unreal Event Bus](https://github.com/MrRobinOfficial/Unreal-EventBus) | `Unreal Engine` `C++` | Event bus system for Unreal Engine |
+| [Unreal CommonTime](https://github.com/MrRobinOfficial/Unreal-CommonTime) | `Unreal Engine` `C++` | DateTime and Timespan editor widget for Unreal Engine |
 
-* [![](https://img.shields.io/badge/-🎮%20Seek%20Edge%20%7C%20A%20Call%20Of%20Duty%20Clone%20Game%20%7C%20Made%20With%20Unity-000)](https://mrrobinofficial.itch.io/seek-edge)
+</details>
 
-### Guides & Tutorials
+<br/>
 
-* [![](https://img.shields.io/badge/-📚%20Guide%20for%20learning%20Unreal%20Engine-000)](https://github.com/MrRobinOfficial/Guide-UnrealEngine)
-* [![](https://img.shields.io/badge/-📚%20Guide%20for%20integrating%20Dear%20ImGui%20to%20Unity-000)](https://github.com/MrRobinOfficial/Guide-UnityDearImGui)
-* [![](https://img.shields.io/badge/-📚%20Guide%20for%20adding%20Steam%20Netcode%20For%20GameObjects%20to%20Unity-000)](https://github.com/MrRobinOfficial/Guide-UnitySteamNetcodeGameObjects)
+<details>
+<summary><b>GUIDES &amp; TUTORIALS</b></summary>
+<br/>
 
-### Tools & Libraries
+| Guide | Description |
+|-------|-------------|
+| [Unreal Engine Guide](https://github.com/MrRobinOfficial/Guide-UnrealEngine) | Comprehensive learning guide for Unreal Engine |
+| [Dear ImGui → Unity](https://github.com/MrRobinOfficial/Guide-UnityDearImGui) | Integrating Dear ImGui into Unity |
+| [Steam Netcode → Unity](https://github.com/MrRobinOfficial/Guide-UnitySteamNetcodeGameObjects) | Steam Netcode for GameObjects in Unity |
 
-* [![](https://img.shields.io/badge/-💾%20Save%20System%20for%20Godot%20in%20C%23-000)](https://github.com/MrRobinOfficial/Godot-Saveable)
-* [![](https://img.shields.io/badge/-🕹️%20Unity%20Input%20System%20Extension%20for%20Racing%20Wheel-000)](https://github.com/MrRobinOfficial/Unity-Inputter)
-* [![](https://img.shields.io/badge/-🚗%20Vehicle%20System%20for%20Unreal%20Engine%20in%20C%2B%2B-000)](https://github.com/MrRobinOfficial/Unreal-NebulousVehicle)
-* [![](https://img.shields.io/badge/-📈%20Easing%20Functions%20Collection%20for%20C%23%2C%20Python%2C%20and%20C%2B%2B-000)](https://github.com/MrRobinOfficial/EasingFunctions)
-* [![](https://img.shields.io/badge/-🚌%20Event%20Bus%20System%20for%20Unreal%20Engine-000)](https://github.com/MrRobinOfficial/Unreal-EventBus)
-* [![](https://img.shields.io/badge/-🕒%20Editor%20for%20Date%20Time%20and%20Timespan%20in%20Unreal%20Engine-000)](https://github.com/MrRobinOfficial/Unreal-CommonTime)
+</details>
 
-## About myself
+<br/>
 
-I'm Robin Johannesson, a _23-year-old_ from <img src="https://raw.githubusercontent.com/yammadev/flag-icons/master/svg/SE.svg" alt=""> Sweden, currently studying web development at BTH - Blekinge Institute of Technology.
+## TECH STACK
 
+<br/>
 
-I began my journey into programming and music production in 2017, and since the beginning of 2020, I've been focusing on both web development and game development. My passion lies in exploring new projects, especially within the realm of video games. Using FL Studio, I've been creating my own music tracks since I started, and I also enjoy sharing my knowledge through tutorial videos on YouTube to help others with their projects.
+<details open>
+<summary><b>LANGUAGES</b></summary>
+<br/>
 
-On this profile, you'll find a selection of my projects and tools I've created, showcasing my skills in web development and game development. Whether you're a potential employer or collaborator, my GitHub account offers a glimpse into my technical abilities, creativity, and commitment to continuous learning and improvement.
+![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=c%2b%2b&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-000?style=flat-square&logo=.net&logoColor=239120)
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=E57324)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB)
+![Lua](https://img.shields.io/badge/Lua-000?style=flat-square&logo=lua&logoColor=2C2D72)
+![HLSL](https://img.shields.io/badge/HLSL-000?style=flat-square&logo=directx&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-000?style=flat-square&logo=opengl&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnu-bash&logoColor=4EAA25)
+![PowerShell](https://img.shields.io/badge/PowerShell-000?style=flat-square&logo=microsoft&logoColor=white)
 
-Thank you for visiting, and I hope you find something interesting or helpful as you explore my work. _If you have any questions, are interested in hiring me, or just want to say hello, please feel free to reach out!_
+</details>
 
-<table><tr><td>
-<a href="https://se.pcpartpicker.com/user/MrRobinOfficial/saved/Tn9mLk" target="_blank">Link to my PC specifications</a>
-</td></tr></table>
+<br/>
 
-## Contact
+<details open>
+<summary><b>FRAMEWORKS &amp; LIBRARIES</b></summary>
+<br/>
 
-If you have any questions or issue with one of my projects, just write either to my [YouTube channel](https://www.youtube.com/@mrrobinofficial), [Email](mailto:mrrobin123mail@gmail.com) or [Twitter DM](https://twitter.com/MrRobinOfficial).
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000?style=flat-square&logo=.net&logoColor=512BD4)
+![Vue 3](https://img.shields.io/badge/Vue_3-000?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-000?style=flat-square&logo=angular&logoColor=DD0031)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
+![Razor](https://img.shields.io/badge/Razor-000?style=flat-square&logo=.net&logoColor=512BD4)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=092E20)
+![Vulkan](https://img.shields.io/badge/Vulkan-000?style=flat-square&logo=vulkan&logoColor=white)
+![DirectX](https://img.shields.io/badge/DirectX-000?style=flat-square&logoColor=white)
 
-## Socials
+</details>
 
-* [![](https://img.shields.io/badge/-YouTube-FF0000?&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/@MrRobinOfficial?sub_confirmation=1)
-* [![](https://img.shields.io/badge/-Spotify-1DB954?&logo=Spotify&logoColor=FFFFFF)](https://open.spotify.com/artist/2Fzh377DpcO1DjntMQFXvz?si=j0bz09YgRpWvJviIB_ZSwg&nd=1)
-* [![](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/mrrobinftw/)
-* [![](https://img.shields.io/badge/-Itch.io-FA5C5C?&logo=Itch.io&logoColor=FFFFFF)](https://mrrobinofficial.itch.io/)
-* [![](https://img.shields.io/badge/-X-000?&logo=X&logoColor=FFFFFF)](https://twitter.com/MrRobinOfficial)
-* [![](https://img.shields.io/badge/-Twitch-9146FF?&logo=Twitch&logoColor=FFFFFF)](https://www.twitch.tv/mrrobinofficial)
+<br/>
 
-## Videos
+<details open>
+<summary><b>DEVOPS &amp; BUILD SYSTEMS</b></summary>
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=github-actions&logoColor=2088FF)
+![Jenkins](https://img.shields.io/badge/Jenkins-000?style=flat-square&logo=jenkins&logoColor=D24939)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-000?style=flat-square&logo=azure-devops&logoColor=0078D7)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
+![CMake](https://img.shields.io/badge/CMake-000?style=flat-square&logo=cmake&logoColor=064F8C)
+![Premake5](https://img.shields.io/badge/Premake5-000?style=flat-square&logo=cmake&logoColor=white)
+![Conan 2.x](https://img.shields.io/badge/Conan_2.x-000?style=flat-square&logo=conan&logoColor=6699CB)
+![Vcpkg](https://img.shields.io/badge/Vcpkg-000?style=flat-square&logo=microsoft&logoColor=white)
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>DATABASES</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=flat-square&logo=sqlite&logoColor=003B57)
+![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=flat-square&logo=microsoft-sql-server&logoColor=CC2927)
+![EF Core](https://img.shields.io/badge/EF_Core-000?style=flat-square&logo=.net&logoColor=512BD4)
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>GAME DEVELOPMENT</b></summary>
+<br/>
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000?style=flat-square&logo=unreal-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-000?style=flat-square&logo=godot-engine&logoColor=478CBF)
+![Blender](https://img.shields.io/badge/Blender-000?style=flat-square&logo=blender&logoColor=F5792A)
+![Maya](https://img.shields.io/badge/Maya-000?style=flat-square&logo=autodesk&logoColor=white)
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>CMS &amp; TOOLING</b></summary>
+<br/>
+
+![Umbraco](https://img.shields.io/badge/Umbraco-000?style=flat-square&logo=umbraco&logoColor=FABD02)
+![Vite](https://img.shields.io/badge/Vite-000?style=flat-square&logo=vite&logoColor=646CFF)
+![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman&logoColor=FF6C37)
+![Rider](https://img.shields.io/badge/Rider-000?style=flat-square&logo=rider&logoColor=000000)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Zed](https://img.shields.io/badge/Zed-000?style=flat-square&logo=zedindustries&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-000?style=flat-square&logo=linux&logoColor=white)
+![RenderDoc](https://img.shields.io/badge/RenderDoc-000?style=flat-square&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000?style=flat-square&logo=gnometerminal&logoColor=white)
+
+</details>
+
+<br/>
+
+## LATEST VIDEOS
+
+<br/>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![🔴 How to Use C++ in Unreal Engine - Beginner Tutorial](https://ytcards.demolab.com/?id=TrkXB3JexCc&title=%F0%9F%94%B4+How+to+Use+C%2B%2B+in+Unreal+Engine+-+Beginner+Tutorial&lang=en&timestamp=1695785485&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17302 "🔴 How to Use C++ in Unreal Engine - Beginner Tutorial")](https://www.youtube.com/watch?v=TrkXB3JexCc#gh-dark-mode-only)[![🔴 How to Use C++ in Unreal Engine - Beginner Tutorial](https://ytcards.demolab.com/?id=TrkXB3JexCc&title=%F0%9F%94%B4+How+to+Use+C%2B%2B+in+Unreal+Engine+-+Beginner+Tutorial&lang=en&timestamp=1695785485&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17302 "🔴 How to Use C++ in Unreal Engine - Beginner Tutorial")](https://www.youtube.com/watch?v=TrkXB3JexCc#gh-light-mode-only)
-[![HUGE UPDATES To This Channel!](https://ytcards.demolab.com/?id=kVZJmPW1_MI&title=HUGE+UPDATES+To+This+Channel%21&lang=en&timestamp=1686002429&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=490 "HUGE UPDATES To This Channel!")](https://www.youtube.com/watch?v=kVZJmPW1_MI#gh-dark-mode-only)[![HUGE UPDATES To This Channel!](https://ytcards.demolab.com/?id=kVZJmPW1_MI&title=HUGE+UPDATES+To+This+Channel%21&lang=en&timestamp=1686002429&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=490 "HUGE UPDATES To This Channel!")](https://www.youtube.com/watch?v=kVZJmPW1_MI#gh-light-mode-only)
-[![🔴 Working on a project in Unreal Engine](https://ytcards.demolab.com/?id=gviI32b9x1A&title=%F0%9F%94%B4+Working+on+a+project+in+Unreal+Engine&lang=en&timestamp=1682772440&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5418 "🔴 Working on a project in Unreal Engine")](https://www.youtube.com/watch?v=gviI32b9x1A#gh-dark-mode-only)[![🔴 Working on a project in Unreal Engine](https://ytcards.demolab.com/?id=gviI32b9x1A&title=%F0%9F%94%B4+Working+on+a+project+in+Unreal+Engine&lang=en&timestamp=1682772440&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5418 "🔴 Working on a project in Unreal Engine")](https://www.youtube.com/watch?v=gviI32b9x1A#gh-light-mode-only)
-[![🔴 Coding "DRIFTER" vehicle sim tool IN C++](https://ytcards.demolab.com/?id=2OJthaSdhro&title=%F0%9F%94%B4+Coding+%22DRIFTER%22+vehicle+sim+tool+IN+C%2B%2B&lang=en&timestamp=1674955433&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10647 "🔴 Coding \"DRIFTER\" vehicle sim tool IN C++")](https://www.youtube.com/watch?v=2OJthaSdhro#gh-dark-mode-only)[![🔴 Coding "DRIFTER" vehicle sim tool IN C++](https://ytcards.demolab.com/?id=2OJthaSdhro&title=%F0%9F%94%B4+Coding+%22DRIFTER%22+vehicle+sim+tool+IN+C%2B%2B&lang=en&timestamp=1674955433&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10647 "🔴 Coding \"DRIFTER\" vehicle sim tool IN C++")](https://www.youtube.com/watch?v=2OJthaSdhro#gh-light-mode-only)
-[![How To Install Dear ImGui Inside Unity](https://ytcards.demolab.com/?id=g1ecdC68uTg&title=How+To+Install+Dear+ImGui+Inside+Unity&lang=en&timestamp=1670605232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=954 "How To Install Dear ImGui Inside Unity")](https://www.youtube.com/watch?v=g1ecdC68uTg#gh-dark-mode-only)[![How To Install Dear ImGui Inside Unity](https://ytcards.demolab.com/?id=g1ecdC68uTg&title=How+To+Install+Dear+ImGui+Inside+Unity&lang=en&timestamp=1670605232&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=954 "How To Install Dear ImGui Inside Unity")](https://www.youtube.com/watch?v=g1ecdC68uTg#gh-light-mode-only)
-[![🔴Playing Ghostrunner for the first time!!](https://ytcards.demolab.com/?id=5fyiz50gfJ8&title=%F0%9F%94%B4Playing+Ghostrunner+for+the+first+time%21%21&lang=en&timestamp=1667091948&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8615 "🔴Playing Ghostrunner for the first time!!")](https://www.youtube.com/watch?v=5fyiz50gfJ8#gh-dark-mode-only)[![🔴Playing Ghostrunner for the first time!!](https://ytcards.demolab.com/?id=5fyiz50gfJ8&title=%F0%9F%94%B4Playing+Ghostrunner+for+the+first+time%21%21&lang=en&timestamp=1667091948&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8615 "🔴Playing Ghostrunner for the first time!!")](https://www.youtube.com/watch?v=5fyiz50gfJ8#gh-light-mode-only)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-1d252c?style=social&logo=video&logoColor=718ca1"/>](https://www.youtube.com/@MrRobinOfficial?sub_confirmation=1)
+<div align="center">
+<br/>
+<sub>BUILT WITH CURIOSITY · REFINED WITH INTENTION</sub>
+<br/><br/>
+</div>
